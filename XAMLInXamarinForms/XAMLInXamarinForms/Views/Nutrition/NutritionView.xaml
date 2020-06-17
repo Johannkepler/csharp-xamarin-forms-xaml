@@ -11,5 +11,5 @@
     <nutritionviews:LunchView/>
     <nutritionviews:DinnerView/>
     <nutritionviews:SnackView/>
-    <nutritionviews:BreakfastView/>      
+       
 </TabbedPage> 
